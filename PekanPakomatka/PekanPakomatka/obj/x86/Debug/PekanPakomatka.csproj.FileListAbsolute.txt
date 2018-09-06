@@ -1,0 +1,58 @@
+C:\MyTemp\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\maasto.xnb
+C:\MyTemp\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\ruoho.xnb
+C:\MyTemp\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\kentta1.xnb
+C:\MyTemp\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\pekka.xnb
+C:\MyTemp\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\pekka\Pekka1_0.xnb
+C:\MyTemp\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\PekanPakomatka.exe
+C:\MyTemp\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\PekanPakomatka.pdb
+C:\MyTemp\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Jypeli.dll
+C:\MyTemp\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Jypeli.xml
+C:\MyTemp\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MyTemp\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\MyTemp\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\obj\x86\Debug\PekanPakomatka.exe
+C:\MyTemp\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\obj\x86\Debug\PekanPakomatka.pdb
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\maasto.xnb
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\ruoho.xnb
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\kentta1.xnb
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\kentta2.xnb
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\pekka.xnb
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\pekka\Pekka1_0.xnb
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\PekanPakomatka.exe
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\PekanPakomatka.pdb
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Jypeli.dll
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Jypeli.xml
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\obj\x86\Debug\PekanPakomatka.exe
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\obj\x86\Debug\PekanPakomatka.pdb
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\suomilippu.xnb
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\ruotsilippu.xnb
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\kolikko.xnb
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\ruotsalainen.xnb
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\vihollinen.xnb
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\vihollinen\ruotsalainen_0.xnb
+C:\MyTemp\tuiljurv\trunk\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\maasto.xnb
+C:\MyTemp\tuiljurv\trunk\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\ruoho.xnb
+C:\MyTemp\tuiljurv\trunk\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\kentta1.xnb
+C:\MyTemp\tuiljurv\trunk\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\kentta2.xnb
+C:\MyTemp\tuiljurv\trunk\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\suomilippu.xnb
+C:\MyTemp\tuiljurv\trunk\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\ruotsilippu.xnb
+C:\MyTemp\tuiljurv\trunk\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\kolikko.xnb
+C:\MyTemp\tuiljurv\trunk\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\ruotsalainen.xnb
+C:\MyTemp\tuiljurv\trunk\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\pekka.xnb
+C:\MyTemp\tuiljurv\trunk\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\vihollinen.xnb
+C:\MyTemp\tuiljurv\trunk\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\pekka\Pekka1_0.xnb
+C:\MyTemp\tuiljurv\trunk\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\vihollinen\ruotsalainen_0.xnb
+C:\MyTemp\tuiljurv\trunk\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\PekanPakomatka.exe
+C:\MyTemp\tuiljurv\trunk\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\PekanPakomatka.pdb
+C:\MyTemp\tuiljurv\trunk\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Jypeli.dll
+C:\MyTemp\tuiljurv\trunk\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Jypeli.xml
+C:\MyTemp\tuiljurv\trunk\PekanPakomatka\PekanPakomatka\PekanPakomatka\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MyTemp\tuiljurv\trunk\PekanPakomatka\PekanPakomatka\PekanPakomatka\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\MyTemp\tuiljurv\trunk\PekanPakomatka\PekanPakomatka\PekanPakomatka\obj\x86\Debug\PekanPakomatka.exe
+C:\MyTemp\tuiljurv\trunk\PekanPakomatka\PekanPakomatka\PekanPakomatka\obj\x86\Debug\PekanPakomatka.pdb
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\kentta3.xnb
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\obj\x86\Debug\PekanPakomatka.csprojResolveAssemblyReference.cache
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\PekanPakomatka.exe.manifest
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\PekanPakomatka.application
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\obj\x86\Debug\PekanPakomatka.exe.manifest
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\obj\x86\Debug\PekanPakomatka.application

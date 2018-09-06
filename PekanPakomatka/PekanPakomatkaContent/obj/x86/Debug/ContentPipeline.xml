@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>maasto.png</Source>
+      <Name>maasto</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\maasto.xnb</Output>
+      <Time>2013-11-27T18:54:30.8074241+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ruoho.png</Source>
+      <Name>ruoho</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\ruoho.xnb</Output>
+      <Time>2013-11-27T18:54:30.7904231+02:00</Time>
+    </Item>
+    <Item>
+      <Source>kentta1.png</Source>
+      <Name>kentta1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\kentta1.xnb</Output>
+      <Time>2013-11-27T18:54:30.892429+02:00</Time>
+    </Item>
+    <Item>
+      <Source>kentta2.png</Source>
+      <Name>kentta2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\kentta2.xnb</Output>
+      <Time>2013-11-27T18:54:30.9684333+02:00</Time>
+    </Item>
+    <Item>
+      <Source>suomilippu.png</Source>
+      <Name>suomilippu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\suomilippu.xnb</Output>
+      <Time>2013-11-27T18:54:30.8884287+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ruotsilippu.png</Source>
+      <Name>ruotsilippu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\ruotsilippu.xnb</Output>
+      <Time>2013-11-27T18:54:30.7944233+02:00</Time>
+    </Item>
+    <Item>
+      <Source>kolikko.png</Source>
+      <Name>kolikko</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\kolikko.xnb</Output>
+      <Time>2013-11-27T18:54:30.8034239+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ruotsalainen.png</Source>
+      <Name>ruotsalainen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\ruotsalainen.xnb</Output>
+      <Time>2013-11-27T18:54:30.8104243+02:00</Time>
+    </Item>
+    <Item>
+      <Source>kentta3.png</Source>
+      <Name>kentta3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\kentta3.xnb</Output>
+      <Time>2013-11-28T08:57:41.9011404+02:00</Time>
+    </Item>
+    <Item>
+      <Source>pekka.anim</Source>
+      <Name>pekka</Name>
+      <Importer>AnimationImporter</Importer>
+      <Processor>AnimationContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\pekka.xnb</Output>
+      <Time>2013-11-27T18:54:30.9784339+02:00</Time>
+      <Request>C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\pekka\Pekka1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>vihollinen.anim</Source>
+      <Name>vihollinen</Name>
+      <Importer>AnimationImporter</Importer>
+      <Processor>AnimationContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\vihollinen.xnb</Output>
+      <Time>2013-11-27T18:54:30.9664332+02:00</Time>
+      <Request>C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\vihollinen\ruotsalainen_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>pekka\Pekka1.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\pekka\Pekka1_0.xnb</Output>
+      <Time>2013-11-27T18:54:30.9714335+02:00</Time>
+    </Item>
+    <Item>
+      <Source>vihollinen\ruotsalainen.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\vihollinen\ruotsalainen_0.xnb</Output>
+      <Time>2013-11-27T18:54:30.8134244+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatkaContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatkaContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatka\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Jypeli\lib\ContentExtensions\TextFileContentExtension.dll</Key>
+        <Value>2013-11-01T20:06:48+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Jypeli\lib\ContentExtensions\AnimationExtension.dll</Key>
+        <Value>2013-11-01T20:06:50+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-06-06T22:55:09.0305792+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

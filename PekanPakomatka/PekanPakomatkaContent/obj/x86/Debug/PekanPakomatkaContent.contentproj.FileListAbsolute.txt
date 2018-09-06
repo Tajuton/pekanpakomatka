@@ -1,0 +1,3 @@
+C:\MyTemp\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatkaContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MyTemp\tuiljurv\trunk\PekanPakomatka\PekanPakomatka\PekanPakomatkaContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tuukka\Documents\Visual Studio 2010\tuiljurv\PekanPakomatka\PekanPakomatka\PekanPakomatkaContent\obj\x86\Debug\PekanPakomatkaContent.contentprojResolveAssemblyReference.cache
