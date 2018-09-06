@@ -1,3 +1,3 @@
 # Pekan pakomatka
 
-Tasohyppelypeli, joka on toteutettu C#:lla. Peliä voi testata kansiosta \PekanPakomatka\bin\x86\Debug\Pekanpakomatka.exe. 
+Tasohyppelypeli vuodelta 2013, joka on toteutettu C#:lla. Peliä voi testata kansiosta PekanPakomatka\PekanPakomatka\bin\x86\Debug\Pekanpakomatka.exe. 
